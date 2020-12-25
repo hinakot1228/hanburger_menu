@@ -98,6 +98,11 @@
     transform: translateY(-20px) rotate(45deg);
     bottom: 0;
   }
+  main h1 {
+    padding-top: 150px;
+    display: inline-block;
+    color: red;
+  }
   
   @media screen and (max-width: 480px) {
     #nav ul li {
